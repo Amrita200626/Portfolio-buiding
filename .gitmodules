@@ -1,0 +1,6 @@
+[submodule "Leet_Code_Solutions"]
+	path = Leet_Code_Solutions
+	url = https://github.com
+[submodule "Line_Editor"]
+	path = Line_Editor
+	url = https://github.com
